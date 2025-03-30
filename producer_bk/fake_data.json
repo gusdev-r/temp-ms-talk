@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "What is your name?",
+    "description": "Please enter your full name.",
+    "alternatives": [],
+    "answer": "",
+    "score": 0
+  },
+  {
+    "id": 2,
+    "name": "How old are you?",
+    "description": "Please enter your age in years.",
+    "alternatives": [],
+    "answer": "",
+    "score": 0
+  },
+  {
+    "id": 3,
+    "name": "What is your occupation?",
+    "description": "Please provide your current job or profession.",
+    "alternatives": [],
+    "answer": "",
+    "score": 0
+  },
+  {
+    "id": 4,
+    "name": "What is your favorite color?",
+    "description": "Select your favorite color.",
+    "alternatives": ["Red", "Blue", "Green", "Yellow", "Other"],
+    "answer": "",
+    "score": 0
+  },
+  {
+    "id": 5,
+    "name": "Do you own a pet?",
+    "description": "Select 'Yes' or 'No'.",
+    "alternatives": ["Yes", "No"],
+    "answer": "",
+    "score": 0
+  },
+  {
+    "id": 6,
+    "name": "Would you like to receive promotional emails?",
+    "description": "Choose if you want to receive promotional emails.",
+    "alternatives": ["Yes", "No"],
+    "answer": "",
+    "score": 0
+  }
+]
